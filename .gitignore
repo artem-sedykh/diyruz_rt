@@ -55,3 +55,17 @@ DIYRuZRT/CC2530/RouterEB/
 DIYRuZRT/CC2530/CoordinatorEB/
 DIYRuZRT/CC2530/EndDeviceEB/
 DIYRuZRT/CC2530/settings/
+CC2530DB/CoordinatorEB/
+CC2530DB/RouterEB/
+CC2530DB/settings/DIYRuZRT.RouterEB.cspy.bat
+CC2530DB/settings/DIYRuZRT.RouterEB.cspy.ps1
+CC2530DB/settings/DIYRuZRT.RouterEB.driver.xcl
+CC2530DB/settings/DIYRuZRT.RouterEB.general.xcl
+CC2530DB/settings/DIYRuZRT.dnx
+CC2530DB/settings/DIYRuZRT.wsdt
+CC2530DB/settings/DIYRuZRT.dbgdt
+CC2530DB/settings/DIYRuZRT.CoordinatorEB.general.xcl
+CC2530DB/settings/DIYRuZRT.CoordinatorEB.driver.xcl
+CC2530DB/settings/DIYRuZRT.CoordinatorEB.cspy.ps1
+CC2530DB/settings/DIYRuZRT.CoordinatorEB.cspy.bat
+CC2530DB/DIYRuZRT.dep
